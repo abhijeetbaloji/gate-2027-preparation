@@ -1,0 +1,71 @@
+# GATE 2027 — Computer Science and Information Technology (CS)
+
+Official syllabus text. No topics have been added, removed, or reordered.
+
+| Item | Record |
+| --- | --- |
+| Paper code | CS |
+| Paper name on the syllabus page | Computer Science & Information Technology |
+| Paper name on the syllabus PDF | Computer Science and Information Technology |
+| Organizing Institute | IIT Madras |
+| Checked | 2 October 2026 |
+| Syllabus PDF | https://gate2027.iitm.ac.in/static/doc/GATE2027_Syllabus/CS_GATE2027_Syllabus.pdf |
+| Syllabus page | https://gate2027.iitm.ac.in/exam_papers_and_syllabus |
+| PDF file date in document metadata | 6 July 2026, 15:07:52 IST |
+| Also checked against | GATE 2027 Information Brochure, Appendix D, printed pages 54–55. Brochure cover: “Revised version, Date: 27th September 2026”. https://gate2027ib.iitm.ac.in/GATE2027-IB.pdf |
+
+The syllabus page states: “The syllabi for the GATE 2027 test papers have been revised. Candidates are advised to check the updated syllabi.”
+
+The text below follows the official syllabus PDF. The same wording appears in Appendix D of the Information Brochure. Line breaks inside sentences are joined. Official spellings are kept, including “colouring”, “optimisation”, and “Operating System”.
+
+## Official syllabus
+
+### Section 1: Engineering Mathematics
+
+**Discrete Mathematics:** Propositional and first order logic. Sets, relations, functions, partial orders and lattices. Monoids, Groups. Graphs: connectivity, matching, colouring. Combinatorics: counting, recurrence relations, generating functions.
+
+**Linear Algebra:** Matrices, determinants, system of linear equations, eigenvalues and eigenvectors, LU decomposition.
+
+**Calculus:** Limits, continuity and differentiability, Maxima and minima, Mean value theorem, Integration.
+
+**Probability and Statistics:** Random variables, Uniform, normal, exponential, Poisson and binomial distributions. Mean, median, mode and standard deviation. Conditional probability and Bayes theorem.
+
+### Section 2: Digital Logic
+
+Boolean algebra and minimization – algebraic technique, Karnaugh map, tabular method. Design of combinational and sequential circuits. Number representation and arithmetic (fixed and floating point).
+
+### Section 3: Computer Organization and Architecture
+
+Instruction set and addressing modes. Design of arithmetic and logic unit (ALU). Design of control unit – hardwired and microprogrammed. Memory interfacing and hierarchy: performance, cache memory mapping. I/O interface (interrupt and DMA). Instruction pipelining, pipeline hazards.
+
+### Section 4: Programming and Data Structures
+
+Programming in C. Recursion. Arrays, stacks, queues, linked lists, trees, binary search trees, binary heaps, graphs.
+
+### Section 5: Algorithms
+
+Searching, sorting, hashing. Asymptotic worst case time and space complexity. Algorithm design techniques: greedy, dynamic programming and divide-and-conquer. Graph traversals, minimum spanning trees, shortest paths.
+
+### Section 6: Theory of Computation
+
+Regular expressions and finite automata. Context-free grammars and push-down automata. Regular and context-free languages, pumping lemma. Turing machines and undecidability.
+
+### Section 7: Compiler Design
+
+Lexical analysis, parsing, syntax-directed translation. Runtime environments. Intermediate code generation. Local optimisation, Data flow analyses: constant propagation, liveness analysis, common sub expression elimination.
+
+### Section 8: Operating System
+
+System calls, processes, threads, inter-process communication, concurrency and synchronization. Deadlock. CPU and I/O scheduling. Memory management and virtual memory. File systems.
+
+### Section 9: Databases
+
+ER-model. Relational model: relational algebra, tuple calculus, SQL. Integrity constraints, normal forms. File organization, indexing (e.g., B and B+ trees). Transactions and concurrency control.
+
+### Section 10: Computer Networks
+
+Principles of Layering; Basics of switching (circuit, packet and virtual circuit) and performance metrics;
+
+Data link layer: error detection, Medium Access Control, Ethernet; Distance vector and link state routing;
+
+IPv4 - Fragmentation, CIDR Notation, Network Address Translation; TCP- flow control and congestion control, socket API; DNS and HTTP.
